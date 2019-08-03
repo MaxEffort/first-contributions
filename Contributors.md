@@ -8,6 +8,7 @@
 - Joseph Pilla
 - Josh Hageman
 - [GreyhatLinux](https://github.com/greyhatlinux)
+- [Max Effort](https://github.com/axEffort)
 - [Kean Ngo](https://github.com/keanngo)
 - [Sing Fung Cheung](https://github.com/singfungcheung)
 - [Stryyder](https://github.com/stryyder)
@@ -15155,7 +15156,7 @@ Christian Reyes
 - [striker4150](https://github.com/striker4150)
 - [Huiyoung Hyun Jung](https://github.com/hyunhjung)
 - [Jayesh Kumar](https://github.com/deepcnnlearning)
-- [Amanda Bakalarczyk(https://github.com/elbhednam)
+- [Amanda Bakalarczyk](https://github.com/elbhednam)
 - [MisterHup] (https://github.com/MrHup)
 - [mskaprushchenko] (https://github.com/mskarpushchenko)
 - [Ray Rojas] (https://github.com/lokcito)
@@ -15182,3 +15183,4 @@ Christian Reyes
 - [Jose Bejerano](https://github.com/bejerano)
 - [Madeline Kelly] (https://github.com/MadelineKelly196)
 - [Josh Carroll](https://github.com/joshc133)
+
