@@ -8,7 +8,7 @@
 - Joseph Pilla
 - Josh Hageman
 - [GreyhatLinux](https://github.com/greyhatlinux)
-- [Max Effort](https://github.com/axEffort)
+- [Max Effort](https://github.com/MaxEffort)
 - [Kean Ngo](https://github.com/keanngo)
 - [Sing Fung Cheung](https://github.com/singfungcheung)
 - [Stryyder](https://github.com/stryyder)
